@@ -6,4 +6,4 @@ Javier Alejandro Mazariegos Godoy
 ![image](https://user-images.githubusercontent.com/61554803/104677592-43b2f800-56af-11eb-9159-9a0b4a313618.png)
 
 # Link del video:
-[https://youtu.be/oZjdonOdIOc](url)
+[https://youtu.be/oZjdonOdIOc]
